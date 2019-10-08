@@ -30,5 +30,6 @@
   margin-left: 3em;
 }
 
-
-
+.mark-complete {
+  text-decoration: line-through;
+}
