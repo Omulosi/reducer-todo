@@ -11,9 +11,6 @@ function App() {
       </header>
 
       <div className='main-content'>
-        <form  className='todo-input'>
-          <input type="text" placeholder="Add a todo item"/>
-        </form>
 
         <TodoList />
       </div>
